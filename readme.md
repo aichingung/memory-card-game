@@ -1,4 +1,4 @@
-https://pages.git.generalassemb.ly/aichingung/Memory-Card-Game/
+https://aichingung.github.io/memory-card-game/
 
 # layout
 ![memory-card-game](https://media.git.generalassemb.ly/user/42808/files/d7230101-e326-462b-bf8c-2638d06a73c2)
